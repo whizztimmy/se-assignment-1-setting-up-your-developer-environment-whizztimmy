@@ -52,3 +52,14 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+**Answer**
+
+
+1. My PC is currently on Windows 11 Pro which is my preferred Operationg System (OS)
+
+2. I chose Visual Studio as my preferred IDE. In order to have it installed on my Pc; I navigated to https://code.visualstudio.com/ and downloaded the Vs Code Software (I have done these steps right before the programme started)
+2. I downloaded the GitHub Desktop as well
+3. This is my first published repo on Github (https://github.com/whizztimmy/Demo-repo)
+4. I have tested several extensions on visual code, few of them are html css support, live server, tabnine ai, intellicode and many more. 
+5. To be honset, i had TOUGH timeS with the github and visual studio sync. I had to watch plenty of youtube vidoes just to understand better ( BUT IT WAS FUN)
